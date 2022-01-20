@@ -17,3 +17,14 @@ We think project-oriented and use creative working methods when developing the p
 
 **About us**\
 We are represented in Zielona Góra (Grünberg), about 180km from the world metropolis Berlin. The team consists of 20 employees. We implement our e-commerce projects using the latest techniques and tools. You can meet us regularly at Internet World Expo, Dmexco and other trade fairs in Germany, Switzerland and England, where we will present our services on our own stand.
+
+---
+
+### ⚙️ **Our best Shopware 6 plugins**:
+
+- [Advanced Variants-Properties](https://store.shopware.com/en/crehl67589097513/advanced-variants-properties.html?c=4)
+- [🔥 Orion Theme](https://store.shopware.com/en/crehl74137617741/orion-theme.html?c=4)
+- [BaseLinker Integration](https://store.shopware.com/en/crehl97816915330f/baselinker-integration.html?c=4)
+- [PayU](https://store.shopware.com/en/crehl78082473062f/payu.html?c=4)
+
+➡️ [more plugins...](https://store.shopware.com/en/crehler.html)
