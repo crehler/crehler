@@ -1,6 +1,6 @@
 # CREHLER Sp. z o. o.
 
-[![Website](https://img.shields.io/website?label=crehler.com&style=for-the-badge&url=https%3A%2F%crehler.com)](https://crehler.com)
+[![Website](https://img.shields.io/website?label=crehler.com&style=for-the-badge&url=https://crehler.com)](https://crehler.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CrehlerDE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcrehler&screen_name=CrehlerDE)
 
 **Enterprise E-Commerce**\
