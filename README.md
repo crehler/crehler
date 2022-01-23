@@ -31,6 +31,8 @@ We think project-oriented and use creative working methods when developing the p
 **About us**\
 We are represented in Zielona Góra (Grünberg), about 180km from the world metropolis Berlin. The team consists of 20 employees. We implement our e-commerce projects using the latest techniques and tools. You can meet us regularly at Internet World Expo, Dmexco and other trade fairs in Germany, Switzerland and England, where we will present our services on our own stand.
 
+---
+
 ### ⚙️ Our most popular Shopware 6 plugins:
 - [Orion Theme](https://store.shopware.com/en/crehl74137617741/orion-theme.html?c=4) 🎨
 - [NEBULA Theme](https://store.shopware.com/en/crehl41689638160/nebula-theme.html) 🎨
