@@ -1,6 +1,6 @@
 <img align="right" alt="Shopware Enterprise Partner" src="https://assets.shopware.com/media/badges/partner_labels/shopware_enterprise_partner.svg" width="auto" height="70px">
 
-# CREHLER Sp. z o. o. - Shopware Enterprise Partner
+## CREHLER Sp. z o. o. – Certified Shopware Enterprise Partner
 
 <p align="left">
 <img alt="Shopware 6 Certified Developer" src="https://assets.shopware.com/media/badges/certifications/shopware6_certified_developer.svg" width="auto" height="70px">
