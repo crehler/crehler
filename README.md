@@ -2,7 +2,9 @@
 
 ## Hello, we are CREHLER Sp. z o. o. 👋&nbsp; – &nbsp;Certified Shopware Enterprise Partner
 
-[![Website](https://img.shields.io/website?label=crehler.com&style=for-the-badge&url=https://crehler.com)](https://crehler.com)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://crehler.com)](https://crehler.com)
+[![Documentation](https://img.shields.io/website?label=Documentation&style=for-the-badge&url=https://docs.crehler.com)](https://docs.crehler.com)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/CrehlerDE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcrehler&screen_name=CrehlerDE)
 
 <p align="left">
