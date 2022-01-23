@@ -1,7 +1,21 @@
+<img align="right" alt="Shopware Enterprise Partner" src="https://assets.shopware.com/media/badges/partner_labels/shopware_enterprise_partner.svg" width="auto" height="70px">
+
 # CREHLER Sp. z o. o.
+
+<p align="left">
+<img alt="Shopware 6 Certified Developer" src="https://assets.shopware.com/media/badges/certifications/shopware6_certified_developer.svg" width="auto" height="70px">
+
+<img alt="Shopware 6 Certified Developer" src="https://assets.shopware.com/media/badges/certifications/shopware6_certified_developer_adv.svg" width="auto" height="70px">
+
+<img alt="Shopware 6 Certified Developer" src="https://assets.shopware.com/media/badges/certifications/shopware6_certified_template_designer.svg" width="auto" height="70px">
+
+<img alt="Shopware 6 Certified Developer" src="https://assets.shopware.com/media/badges/certifications/shopware6_certified_template_designer_adv.svg" width="auto" height="70px">
+</p>
 
 [![Website](https://img.shields.io/website?label=crehler.com&style=for-the-badge&url=https://crehler.com)](https://crehler.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CrehlerDE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcrehler&screen_name=CrehlerDE)
+
+---
 
 **Enterprise E-Commerce**\
 CREHLER® is a certified Shopware Enterprise Partner developing enterprise online applications with higher requirements and expectations. The development of complex B2B & B2C e-commerce projects and the transformation of a vision to a high-performance shop system is our everyday life.
@@ -17,3 +31,10 @@ We think project-oriented and use creative working methods when developing the p
 
 **About us**\
 We are represented in Zielona Góra (Grünberg), about 180km from the world metropolis Berlin. The team consists of 20 employees. We implement our e-commerce projects using the latest techniques and tools. You can meet us regularly at Internet World Expo, Dmexco and other trade fairs in Germany, Switzerland and England, where we will present our services on our own stand.
+
+**Our most popular plugins**:\
+• [Orion Theme](https://store.shopware.com/en/crehl74137617741/orion-theme.html?c=4) 🎨\
+• [NEBULA Theme](https://store.shopware.com/en/crehl41689638160/nebula-theme.html) 🎨\
+• [BaseLinker Integration](https://store.shopware.com/en/crehl97816915330f/baselinker-integration.html)\
+• [Advanced Variants-Properties](https://store.shopware.com/en/crehl67589097513/advanced-variants-properties.html)\
+• [PayU](https://store.shopware.com/en/crehl78082473062f/payu.html)
