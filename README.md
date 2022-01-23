@@ -31,18 +31,6 @@ We think project-oriented and use creative working methods when developing the p
 **About us**\
 We are represented in Zielona Góra (Grünberg), about 180km from the world metropolis Berlin. The team consists of 20 employees. We implement our e-commerce projects using the latest techniques and tools. You can meet us regularly at Internet World Expo, Dmexco and other trade fairs in Germany, Switzerland and England, where we will present our services on our own stand.
 
-**Our services**\
-• Strategy & Consulting\
-• B2B / B2C Solutions\
-• Concept & Development\
-• Shopware Development\
-• Shopware plugins and templates\
-• Integration ERP, CRM, PIM\
-• Symfony App's\
-• Agile software development / Scrum / Kanban\
-• Design and usability\
-• Support
-
 ---
 
 ### ⚙️ Our most popular Shopware 6 plugins:
