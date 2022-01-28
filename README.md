@@ -1,6 +1,6 @@
 <img align="right" alt="Shopware Enterprise Partner" src="https://assets.shopware.com/media/badges/partner_labels/shopware_enterprise_partner.svg" width="auto" height="70px">
 
-## Hello, we are CREHLER Sp. z o. o. 👋&nbsp; – &nbsp;Certified Shopware Enterprise Partner
+## Hi there, we are CREHLER Sp. z o. o. &nbsp;🚀 – &nbsp;Certified Shopware Enterprise Partner
 
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://crehler.com)](https://crehler.com)
 [![Documentation](https://img.shields.io/website?label=Documentation&style=for-the-badge&url=https://docs.crehler.com)](https://docs.crehler.com)
@@ -34,8 +34,8 @@ We are represented in Zielona Góra (Grünberg), about 180km from the world metr
 ---
 
 ### ⚙️ Our most popular Shopware 6 plugins:
-- [Orion Theme](https://store.shopware.com/en/crehl74137617741/orion-theme.html?c=4) 🎨
-- [NEBULA Theme](https://store.shopware.com/en/crehl41689638160/nebula-theme.html) 🎨
+- [Orion Theme](https://store.shopware.com/en/crehl74137617741/orion-theme.html?c=4) 🚀
+- [NEBULA Theme](https://store.shopware.com/en/crehl41689638160/nebula-theme.html) 🚀
 - [BaseLinker Integration](https://store.shopware.com/en/crehl97816915330f/baselinker-integration.html)
 - [Advanced Variants-Properties](https://store.shopware.com/en/crehl67589097513/advanced-variants-properties.html)
 - [PayU](https://store.shopware.com/en/crehl78082473062f/payu.html)
